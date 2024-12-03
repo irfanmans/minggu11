@@ -1,0 +1,48 @@
+# name: minggu11
+# description: "A new Flutter project."
+# publish_to: "none"
+# version: 0.1.0
+
+# environment:
+#   sdk: ^3.5.3
+
+# dependencies:
+#   flutter:
+#     sdk: flutter
+#   flutter_localization: ^0.2.2
+#   localization: ^2.1.1
+
+# dev_dependencies:
+#   flutter_test:
+#     sdk: flutter
+#   flutter_lints: ^4.0.0
+
+# flutter:
+#   uses-material-design: true
+#   assets:
+#     - lib/lang/
+
+name: minggu11
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  localization: ^2.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/lang/
